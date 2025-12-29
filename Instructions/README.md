@@ -39,6 +39,15 @@ Total Individual Points: **14**
  
 Total points for your final project: **50**
 
+## 🤖 Use of LLMs - Team Project Guidelines
+
+You are allowed to use LLMs for coding tasks during this team project, but **NOT for design decisions or report writing**. All design choices—including architecture, class structure, interfaces, and system organization must be made collaboratively by your team without AI assistance.
+
+### Team Requirements for AI Use
+
+**All team members must agree** on when and how AI tools are used. Before using an LLM for any task, discuss it with your team. Every team member must understand any AI-generated code that gets incorporated into your project -- no one should be unfamiliar with code in the repository, regardless of who added it. If an AI generates code that a team member doesn't understand, take time as a team to learn it together before merging it into your project.
+
+Don't forget the LLM disclosure, and keep a complete record as you use it. 
 
 ## Submission Guidelines
 
